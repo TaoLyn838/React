@@ -1,6 +1,6 @@
 # Backroads App
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed](https://exquisite-crumble-29b5a1.netlify.app)
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
@@ -10,11 +10,16 @@
 
 #### React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-#### Support
+#### Instructor
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+[John Smilga](https://www.udemy.com/user/janis-smilga-3/)
+
+
+#### App Walkthrough
+
+https://github.com/TaoLyn838/React/assets/58400041/5516dd66-756d-4ff9-bce4-559e4f346ea0
 
 #### Create New React App
 
