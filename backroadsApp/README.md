@@ -10,7 +10,7 @@
 
 #### React Course
 
-[React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[React 18 Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### Instructor
 
