@@ -1,20 +1,19 @@
 # Backroads App
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed](https://exquisite-crumble-29b5a1.netlify.app/)
 
-- backroads-html - working html/css/javascript project (contains assets)
-- final(complete source code) - working react application
-  - navigate to the folder
-  - run 'npm install'
-  - once the dependencies are installed run 'npm start'
 
-#### React Course
+#### Course&Support
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[Instructor: John Smilga](https://www.udemy.com/user/janis-smilga-3/)
+[React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-#### Support
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+#### App Walkthrough
+
+https://github.com/TaoLyn838/React/assets/58400041/2ba0ea51-5af6-4909-9169-5b7edb8db81f
+
+
 
 #### Create New React App
 
